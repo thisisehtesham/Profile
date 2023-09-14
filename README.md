@@ -2,13 +2,13 @@
 <h1 align="center">Hey there,👋 I'm Ehtesham Ahmad</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. **🔭 I’m currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.**
+- **🔭 I’m currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.**
 
-- 💻 My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma **💻 My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma**
+- **💻 My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma**
 
-- 🛠️ I usually work with design systems and ui-component based react projects and make complex and beautiful components. **🛠️ I usually work with design systems and ui-component based react projects and make complex and beautiful components.**
+- **🛠️ I usually work with design systems and ui-component based react projects and make complex and beautiful components.**
 
-- 🎨 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff. **🎨 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.**
+- **🎨 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.**
 
 - ◎ LinkedIn at [https://www.linkedin.com/in/thisisehtesham/](https://www.linkedin.com/in/thisisehtesham/)
 
