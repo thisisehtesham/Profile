@@ -12,15 +12,12 @@
 
 - **🎨 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.**
 
-- ◎ LinkedIn at [thisisehtesham](https://www.linkedin.com/in/thisisehtesham/)
-
-- ◎ Portfolio/Website at [thisisehtesham](https://thisisehtesham.github.io/)
-
-- ◎ Twitter at [thisisehtesham](https://twitter.com/thisisehtesham)
-
-- ◎ Instagram at [thisisehtesham](https://www.instagram.com/thisisehtesham/)
-
-- ◎ Mail me at **ehteshamahmad005@gmail.com** regarding any work or if you just wanna connect
+- My socials are listed below
+  - Twitter at [thisisehtesham](https://twitter.com/thisisehtesham)
+  - LinkedIn at [thisisehtesham](https://www.linkedin.com/in/thisisehtesham/)
+  - Portfolio/Website at [thisisehtesham](https://thisisehtesham.github.io/)
+  - Instagram at [thisisehtesham](https://www.instagram.com/thisisehtesham/)
+  - Mail me at **ehteshamahmad005@gmail.com** regarding any work or if you just wanna connect
 
 - 💬 Ask me about **#Java #JavaScript #TypeScript #React.js #Redux #TailwindCSS #Node.js #MongoDB #Express.js #Firebase #Git #AWS #Material UI #React Native**
 
