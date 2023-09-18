@@ -19,7 +19,7 @@
   - Instagram at [thisisehtesham](https://www.instagram.com/thisisehtesham/)
   - Mail me at **ehteshamahmad005@gmail.com** regarding any work or if you just wanna connect
 
-- 💬 Ask me about **#Java #JavaScript #TypeScript #React.js #Redux #TailwindCSS #Node.js #MongoDB #Express.js #Firebase #Git #AWS #Material UI #React Native**
+- 💬 Ask me about: **#Java #JavaScript #TypeScript #React.js #Redux #TailwindCSS #Node.js #MongoDB #Express.js #Firebase #Git #AWS #Material UI #React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
